@@ -1,0 +1,24 @@
+{
+  "name": "express-gateway-plugin-aili-swagger",
+  "version": "0.0.1",
+  "description": "express-gateway-plugin swagger-router",
+  "main": "manifest.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xueyuchen/express-gateway-plugin-aili-swagger.git"
+  },
+  "keywords": [
+    "express-gateway",
+    "swagger",
+    "router"
+  ],
+  "author": "xueyuchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xueyuchen/express-gateway-plugin-aili-swagger/issues"
+  },
+  "homepage": "https://github.com/xueyuchen/express-gateway-plugin-aili-swagger#readme"
+}
